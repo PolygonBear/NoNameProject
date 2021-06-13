@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NoNameProject",
+			"Path": "D:\\Private\\MyProjects\\PrivateProjects\\MyDepot\\UE4\\NoNameProject\\NoNameProject\\Source\\NoNameProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NoNameProjectEditor",
+			"Path": "D:\\Private\\MyProjects\\PrivateProjects\\MyDepot\\UE4\\NoNameProject\\NoNameProject\\Source\\NoNameProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

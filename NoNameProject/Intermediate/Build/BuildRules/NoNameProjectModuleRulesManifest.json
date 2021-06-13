@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Private\\MyProjects\\PrivateProjects\\MyDepot\\UE4\\NoNameProject\\NoNameProject\\Source\\NoNameProject\\NoNameProject.Build.cs",
+		"D:\\Private\\MyProjects\\PrivateProjects\\MyDepot\\UE4\\NoNameProject\\NoNameProject\\Source\\NoNameProject.Target.cs",
+		"D:\\Private\\MyProjects\\PrivateProjects\\MyDepot\\UE4\\NoNameProject\\NoNameProject\\Source\\NoNameProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
