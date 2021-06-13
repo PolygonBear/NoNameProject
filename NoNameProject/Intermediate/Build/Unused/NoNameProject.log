@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\NoNameProject).
+  Building NoNameProjectEditor...
+  Using Visual Studio 2019 14.29.30037 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 4 processes...
+    [1/4] BaseCharacter.cpp
+    [2/4] UE4Editor-NoNameProject-Win64-DebugGame.lib
+       Creating library D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\NoNameProject\NoNameProject\Intermediate\Build\Win64\UE4Editor\DebugGame\NoNameProject\UE4Editor-NoNameProject-Win64-DebugGame.lib and object D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\NoNameProject\NoNameProject\Intermediate\Build\Win64\UE4Editor\DebugGame\NoNameProject\UE4Editor-NoNameProject-Win64-DebugGame.exp
+    [3/4] UE4Editor-NoNameProject-Win64-DebugGame.dll
+       Creating library D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\NoNameProject\NoNameProject\Intermediate\Build\Win64\UE4Editor\DebugGame\NoNameProject\UE4Editor-NoNameProject-Win64-DebugGame.suppressed.lib and object D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\NoNameProject\NoNameProject\Intermediate\Build\Win64\UE4Editor\DebugGame\NoNameProject\UE4Editor-NoNameProject-Win64-DebugGame.suppressed.exp
+    [4/4] NoNameProjectEditor-Win64-DebugGame.target
+  Total time in Parallel executor: 2.21 seconds
+  Total execution time: 3.17 seconds
